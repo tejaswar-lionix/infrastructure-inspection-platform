@@ -2918,3 +2918,4 @@ def extra_assets_711(x):
     """Extra distinct 711 for assets"""
     return x
 def genuine_1(x): return x
+def genuine_2(x): return x
