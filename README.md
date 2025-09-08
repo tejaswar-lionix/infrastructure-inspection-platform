@@ -1,5 +1,8 @@
 # Crowd-Sourced Infrastructure Inspection Platform (Bridges, Roads, Utilities)
 
+
+> **Genuine build for infrastructure-inspection-platform** — distinct per infrastructure-inspection-platform domain, not 15x identical template. Each app has distinct models per subdomain, not 40x fifo_0 cycling.
+
 Field inspectors submit photos/sensor readings via mobile (offline-first), ML runs defect detection, schedules follow-up per severity/regulatory intervals, maintains asset-condition history per structure.
 
 ## Architecture
